@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "Insuring the insurers: hospital capacity and prices."
+title = "Insuring the insurers: hospital capacity and prices"
 
 # Date this page was created.
 date = 2019-01-02
