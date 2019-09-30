@@ -34,4 +34,4 @@ weight = 5
 +++
 
 # Biography
-I'm a third year Ph.D. student at the economics department of Northwestern University. My research interests include competition in health care markets, competition under capacity constraints, and the empirics of choice under unobserved risk.
+I'm a fourth year Ph.D. student at the economics department of Northwestern University. My research focuses on the industrial organization of health care markets.

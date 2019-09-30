@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Benjamin Vatter on Benjamin Vatter</title>
@@ -7,8 +6,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 02 Jan 2019 00:00:00 -0600</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Insuring the insurers: hospital capacity and prices</title>
+      <link>/work_in_progress/hospital_capacity/</link>
+      <pubDate>Wed, 02 Jan 2019 00:00:00 -0600</pubDate>
+      
+      <guid>/work_in_progress/hospital_capacity/</guid>
+      <description>&lt;p&gt;Ongoing work. Stay tuned for more.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Smallpox eradication and the burden of anti-vaxxers</title>
@@ -26,7 +35,9 @@
       <pubDate>Tue, 01 Jan 2019 00:00:00 -0600</pubDate>
       
       <guid>/project/vichile/</guid>
-      <description>&lt;p&gt;We study vertical integration between insurers and hospitals. The welfare effects of vertical integration are ambiguous and depend on a trade-off between a variety of economic forces, including solving double marginalization and improving the use of resources within the firm, but also increasing market power and providing incentives to affect rivals&amp;rsquo; costs. To study the effects of vertical integration, we develop a model of health markets and show that vertically integrated firms have incentives to increase negotiated hospital prices to rivals in order to steer demand to their integrated partners. We estimate the model using administrative data on plan choices and hospital admissions from the Chilean private health market, where vertically integrated systems account for almost half of the market. Using our structural estimates, we find that banning vertical integration increases total welfare.&lt;/p&gt;
+      <description>&lt;p&gt;With &lt;a href=&#34;https://sites.google.com/site/ignaciocuesta/&#34; target=&#34;_blank&#34;&gt;Jose Ignacio Cuesta&lt;/a&gt; and &lt;a href=&#34;http://www.dii.uchile.cl/~cnoton/&#34; target=&#34;_blank&#34;&gt;Carlos Noton&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;We study vertical integration between insurers and hospitals. The welfare effects of vertical integration are ambiguous and depend on a trade-off between a variety of economic forces, including solving double marginalization and improving the use of resources within the firm, but also increasing market power and providing incentives to affect rivals&amp;rsquo; costs. To study the effects of vertical integration, we develop a model of health markets and show that vertically integrated firms have incentives to increase negotiated hospital prices to rivals in order to steer demand to their integrated partners. We estimate the model using administrative data on plan choices and hospital admissions from the Chilean private health market, where vertically integrated systems account for almost half of the market. Using our structural estimates, we find that banning vertical integration increases total welfare.&lt;/p&gt;
 </description>
     </item>
     
@@ -57,10 +68,10 @@
       
       <guid>/talk/example/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;p&gt;Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.&lt;/p&gt;
+  
+Click on the **Slides** button above to view the built-in slides feature.
 
 &lt;/div&gt;
-
 
 &lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
 
@@ -544,13 +555,13 @@ $$&lt;/p&gt;
 &lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
 
 &lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
-  One
+   One
 &lt;/span&gt;
 &lt;span class=&#34;fragment &#34; &gt;
-  &lt;strong&gt;Two&lt;/strong&gt;
+   &lt;strong&gt;Two&lt;/strong&gt;
 &lt;/span&gt;
 &lt;span class=&#34;fragment &#34; &gt;
-  Three
+   Three
 &lt;/span&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
@@ -581,7 +592,6 @@ $$&lt;/p&gt;
 &lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
 &lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;/aside&gt;
 
 &lt;hr /&gt;

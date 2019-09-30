@@ -1,16 +1,16 @@
 +++
 # Project title.
-title = "Insuring the insurers: hospital capacity and prices"
+title = "Optimal Rating Desing in Medicare Advantage"
 
 # Date this page was created.
-date = 2019-01-02
+date = 2019-09-22
 
 # Project summary to display on homepage.
-summary = "How does the concentration of capacity affects prices and how much are insurers willing to pay for it?"
+summary = ""
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["health", "vertical-markets", "capacity-constraints"]
+tags = ["health", "riskpools", "medicare-for-all"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -44,4 +44,4 @@ url_custom = []
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Center"
 +++
-Ongoing work. Stay tuned for more.
+Work in progress.

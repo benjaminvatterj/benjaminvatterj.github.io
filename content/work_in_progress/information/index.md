@@ -1,16 +1,16 @@
 +++
 # Project title.
-title = "Smallpox eradication and the burden of anti-vaxxers"
+title = "Consumer Beliefs and Information Spillovers in Provider Choice"
 
 # Date this page was created.
-date = 2019-01-01
+date = 2019-09-22
 
 # Project summary to display on homepage.
-summary = "A quantification of the social cost of the anti-vaccination movement of 19th century England"
+summary = ""
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["health", "history"]
+tags = ["health", "riskpools", "medicare-for-all"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -44,4 +44,4 @@ url_custom = []
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Center"
 +++
-Ongoing work. Stay tuned for more.
+Work in progress.
