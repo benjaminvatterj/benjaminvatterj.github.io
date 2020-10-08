@@ -34,4 +34,4 @@ weight = 5
 +++
 
 # Biography
-I'm a fifth year Ph.D. student at the economics department of Northwestern University. My research focuses on the industrial organization of health care markets.
+I'm a Ph.D. candidate at the economics department of Northwestern University. My research focuses on the industrial organization of health care markets.
